@@ -16,10 +16,11 @@ The presence of hormones in oral contraceptives having many children and smoking
 developping cervical cancer, particularly in women infected with HPV. Also, people with weak immune systems
 (HIV/AIDS) have high risk of HPV.
 
-INPUTS FEATURES :                                            TARGET VARIABLES
-                                                                (BIOPSY)
-    age                                                             Yes
-    Num of pregnencies            XGBOOST MODEL                     No
-    Smoke
-    IUD
-    STDs
+INPUTS FEATURES : age, Num of pregnencies, Smoke, IUD, STDs                                           
+
+TARGET VARIABLES (BIOPSY): YES/NO
+                                                                
+                                                                                                                        
+    
+    
+    
